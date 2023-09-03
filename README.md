@@ -1,3 +1,4 @@
+{Educational Purposes Only}
 # ML_IDS_EmailSec_Phishing
 Intrusion Detection System that uses Machine Learning to detect Phishing_URL's for example fake link throught an spear-phishing attack to a login page.
 unzip the data folder before training the program. 
